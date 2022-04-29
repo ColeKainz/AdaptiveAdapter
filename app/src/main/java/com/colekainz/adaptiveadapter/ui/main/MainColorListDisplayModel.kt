@@ -1,0 +1,3 @@
+package com.colekainz.adaptiveadapter.ui.main
+
+interface MainColorListDisplayModel
